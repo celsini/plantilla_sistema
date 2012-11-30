@@ -1,0 +1,24 @@
+#btn_excel	{
+	margin-left:auto; 
+	margin-right:auto;
+	text-align: -moz-center ;
+	width: 32px;  
+	height: 32px;	
+	background-image: url("../images/excel3.png") !important;
+	background-image: none; 
+	filter: none !important;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/excel3.png');
+	}
+	
+
+#btn_pdf	{
+	margin-left:auto; 
+	margin-right:auto;
+	text-align: -moz-center ;
+	width: 32px;  
+	height: 32px;	
+	background-image: url("../images/pdf2.png") !important;
+	background-image: none; 
+	filter: none !important;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/pdf2.png');
+	}

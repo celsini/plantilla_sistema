@@ -1,0 +1,372 @@
+2012-09-06 10:27:40 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 42]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-06 10:33:27 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 42]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 42
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-06 10:37:53 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-06 10:38:36 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-06 10:38:51 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-14 16:53:15 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-14 16:55:07 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-19 07:04:15 Notice: Notice (8): Undefined variable: mv010ResumenSm in [/var/www/sms/app/View/Mv010ResumenSms/show_update.ctp, line 24]
+Trace:
+include - APP/View/Mv010ResumenSms/show_update.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 910
+View::_render() - CORE/Cake/View/View.php, line 874
+View::render() - CORE/Cake/View/View.php, line 465
+Controller::render() - CORE/Cake/Controller/Controller.php, line 959
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-25 08:23:14 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-25 08:24:24 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-25 08:26:46 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-25 08:26:50 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 08:21:50 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 10:35:44 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 10:44:51 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 10:52:09 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:19:13 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:23:04 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:23:13 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:23:54 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 47]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:24:43 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 83]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 83
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:25:16 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 83]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 83
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:27:49 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 83]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 83
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:41:00 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:41:57 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:42:24 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 11:42:52 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 13:51:55 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 13:52:07 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php, line 35]
+Trace:
+Mv007SmsEnviadoReportesController::get_subgrupo() - APP/Controller/Mv007SmsEnviadoReportesController.php, line 35
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 13:59:19 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php, line 40]
+Trace:
+Mv008SmsRecibidoReportesController::get_subgrupo() - APP/Controller/Mv008SmsRecibidoReportesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:01:06 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php, line 40]
+Trace:
+Mv008SmsRecibidoReportesController::get_subgrupo() - APP/Controller/Mv008SmsRecibidoReportesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:07:45 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php, line 40]
+Trace:
+Mv008SmsRecibidoReportesController::get_subgrupo() - APP/Controller/Mv008SmsRecibidoReportesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:11:45 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php, line 40]
+Trace:
+Mv008SmsRecibidoReportesController::get_subgrupo() - APP/Controller/Mv008SmsRecibidoReportesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:20:21 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:22:45 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:24:16 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+
+2012-09-26 14:41:07 Notice: Notice (8): Undefined variable: idCategoria in [/var/www/sms/app/Controller/Mv011DestinatarioGruposController.php, line 73]
+Trace:
+Mv011DestinatarioGruposController::get_subgrupo() - APP/Controller/Mv011DestinatarioGruposController.php, line 73
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+require - APP/webroot/index.php, line 92
+[main] - ROOT/index.php, line 40
+

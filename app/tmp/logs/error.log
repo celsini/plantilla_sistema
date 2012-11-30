@@ -1,0 +1,1136 @@
+2012-09-14 10:10:24 Error: [MissingControllerException] Controller class C007tMensajesEnviadosPersonalizadoController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-14 10:11:05 Error: [MissingControllerException] Controller class C007tMensajesEnviadosPersonalizadoController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-14 10:11:33 Error: [MissingActionException] Action C007tMensajesEnviadosPersonalizadoController::index() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-14 10:12:10 Error: [MissingTableException] Table c007t_mensajes_enviados_personalizados for model C007tMensajesEnviadosPersonalizado was not found in datasource default.
+#0 /var/www/sms/lib/Cake/Model/Model.php(3443): Model->setSource('c007t_mensajes_...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(21): Controller->paginate()
+#5 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#11 {main}
+2012-09-14 10:14:13 Error: [MissingTableException] Table c007t_mensajes_enviados_personalizados for model C007tMensajesEnviadosPersonalizado was not found in datasource default.
+#0 /var/www/sms/lib/Cake/Model/Model.php(3443): Model->setSource('c007t_mensajes_...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(21): Controller->paginate()
+#5 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#11 {main}
+2012-09-14 10:27:52 Error: [MissingTableException] Table c007t_mensajes_enviados_personalizados for model C007tMensajesEnviadosPersonalizado was not found in datasource default.
+#0 /var/www/sms/lib/Cake/Model/Model.php(3443): Model->setSource('c007t_mensajes_...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(21): Controller->paginate()
+#5 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#11 {main}
+2012-09-14 10:44:42 Error: [MissingTableException] Table c007t_mensajes_enviados_personalizados for model C007tMensajesEnviadosPersonalizado was not found in datasource default.
+#0 /var/www/sms/lib/Cake/Model/Model.php(3443): Model->setSource('c007t_mensajes_...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(21): Controller->paginate()
+#5 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#11 {main}
+2012-09-14 10:50:27 Error: [MissingTableException] Table c007t_mensajes_enviados_personalizados for model C007tMensajesEnviadosPersonalizado was not found in datasource default.
+#0 /var/www/sms/lib/Cake/Model/Model.php(3443): Model->setSource('c007t_mensajes_...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(23): Controller->paginate()
+#5 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#11 {main}
+2012-09-14 11:02:47 Error: [MissingControllerException] Controller class C007tMensajesEnviadosPersonalizadosController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-14 11:03:36 Error: [MissingControllerException] Controller class C007tMensajesEnviadosPersonalizadosController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-14 11:09:23 Error: [PDOException] SQLSTATE[42703]: Undefined column: 7 ERROR:  no existe la columna C007tMensajesEnviado.isPersonalizado
+LINE 1: ...id" = "I001tEstatusTelefono"."co_estatus")  WHERE "C007tMens...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C007tMe...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C007tMe...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C007tMe...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C007tMensajesEnviado), Array)
+#5 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate('C007tMensajesEn...', Array, Array)
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(22): Controller->paginate('C007tMensajesEn...', Array)
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->index()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-14 16:32:00 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «.»
+LINE 1: ...ta','1','Sr(a)'||' '|| a.tx_destinatario || ' ' ||.'LE INFOR...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(206): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(69): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'LE INFORMAMOS', '1', '208')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-14 16:32:30 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «'LE INFORMAMOS'»
+LINE 1: ...ss),a.tx_telefono,'carpeta','1',a.tx_destinatario.'LE INFORM...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(206): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(69): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'LE INFORMAMOS', '1', '209')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-14 16:33:41 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «.»
+LINE 1: ...s),a.tx_telefono,'carpeta','1','a.tx_destinatario'.'->'.LE I...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(206): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(69): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'LE INFORMAMOS', '1', '210')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-14 16:34:28 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «.»
+LINE 1: ...s),a.tx_telefono,'carpeta','1','a.tx_destinatario'.LE INFORM...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(206): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(69): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'LE INFORMAMOS', '1', '211')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-14 16:37:16 Error: [PDOException] SQLSTATE[3F000]: Invalid schema name: 7 ERROR:  no existe el esquema «a»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(206): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(69): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'LE INFORMAMOS', '1', '214')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-18 20:15:16 Error: [SoapFault] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://167.175.135.13/index.php?wsdl' : failed to load external entity "https://167.175.135.13/index.php?wsdl"
+
+#0 /var/www/sms/app/Controller/UsuariosController.php(143): SoapClient->SoapClient('https://167.175...')
+#1 [internal function]: UsuariosController->login()
+#2 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#7 {main}
+2012-09-19 05:04:50 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/sms/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(Mv010ResumenSmsController))
+#1 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(Mv010ResumenSmsController))
+#5 /var/www/sms/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/sms/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-19 05:12:54 Error: [MissingControllerException] Controller class Jbede.phpController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-19 05:13:33 Error: [MissingControllerException] Controller class Jbede.phpController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-19 05:14:33 Error: [MissingControllerException] Controller class Jbede.phpController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-19 05:14:39 Error: [MissingControllerException] Controller class Jbede.phpController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-19 05:15:46 Error: [MissingControllerException] Controller class Jbede.phpController could not be found.
+#0 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#2 {main}
+2012-09-19 05:15:49 Error: [MissingActionException] Action Mv007SmsEnviadoReportesController::Mv007SmsEnviadoReportes() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:15:59 Error: [MissingActionException] Action Mv007SmsEnviadoReportesController::Mv007SmsEnviadoReportes() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:16:03 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:16:13 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:17:04 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:17:13 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:18:04 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:18:13 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:18:54 Error: [MissingActionException] Action Mv010ResumenSmsController::mv010ResumenSms() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:25:26 Error: [MissingActionException] Action Mv010ResumenSmsController::prueba() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:26:20 Error: [MissingActionException] Action Mv010ResumenSmsController::prueba() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:26:42 Error: [MissingActionException] Action Mv010ResumenSmsController::prueba() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:26:54 Error: [MissingActionException] Action Mv010ResumenSmsController::prueba() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:30:01 Error: [MissingActionException] Action Mv010ResumenSmsController::prueba() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-19 05:59:07 Error: [PDOException] SQLSTATE[42P01]: Undefined table: 7 ERROR:  falta una entrada para la tabla «Mv010ResumenSmsController» en la cláusula FROM
+LINE 1: ...sms" AS "Mv010ResumenSm"   WHERE 1 = 1   ORDER BY "Mv010Resu...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "Mv010Re...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "Mv010Re...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "Mv010Re...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(Mv010ResumenSm), Array)
+#5 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(106): Controller->paginate()
+#8 [internal function]: Mv010ResumenSmsController->showUpdate()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-19 05:59:10 Error: [PDOException] SQLSTATE[42P01]: Undefined table: 7 ERROR:  falta una entrada para la tabla «Mv010ResumenSmsController» en la cláusula FROM
+LINE 1: ...sms" AS "Mv010ResumenSm"   WHERE 1 = 1   ORDER BY "Mv010Resu...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "Mv010Re...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "Mv010Re...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "Mv010Re...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(Mv010ResumenSm), Array)
+#5 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(23): Controller->paginate()
+#8 [internal function]: Mv010ResumenSmsController->index()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-09-19 06:20:38 Error: [MissingModelException] mv010ResumenSms
+#0 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate('mv010ResumenSms', Array, Array)
+#1 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(25): Controller->paginate('mv010ResumenSms', Array)
+#2 [internal function]: Mv010ResumenSmsController->index()
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#8 {main}
+2012-09-19 06:22:52 Error: [MissingModelException] mv010ResumenSms
+#0 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate('mv010ResumenSms', Array, Array)
+#1 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(27): Controller->paginate('mv010ResumenSms')
+#2 [internal function]: Mv010ResumenSmsController->index()
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#8 {main}
+2012-09-19 06:23:33 Error: [MissingModelException] mv010ResumenSms
+#0 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate('mv010ResumenSms', Array, Array)
+#1 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(27): Controller->paginate('mv010ResumenSms')
+#2 [internal function]: Mv010ResumenSmsController->index()
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#8 {main}
+2012-09-19 06:32:39 Error: [MissingModelException] mv010ResumenSms
+#0 /var/www/sms/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate('mv010ResumenSms', Array, Array)
+#1 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(27): Controller->paginate('mv010ResumenSms')
+#2 [internal function]: Mv010ResumenSmsController->index()
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#8 {main}
+2012-09-20 17:36:43 Error: [PDOException] SQLSTATE[42P01]: Undefined table: 7 ERROR:  no existe la relación «gsm_mensajes.mv010_resumen_sms»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "Mv010Re...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "Mv010Re...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "Mv010Re...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(Mv010ResumenSm), Array)
+#5 /var/www/sms/app/Controller/Mv010ResumenSmsController.php(43): Model->find('all', Array)
+#6 [internal function]: Mv010ResumenSmsController->showUpdate()
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv010ResumenSmsController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv010ResumenSmsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:14:19 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/sms/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(Mv011DestinatarioGruposController))
+#1 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/sms/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(Mv011DestinatarioGruposController))
+#5 /var/www/sms/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/sms/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-26 11:22:11 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  la sintaxis de entrada no es válida para integer: «undefined»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C003tGr...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C003tGr...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C003tGr...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C003tGrupo), Array)
+#5 /var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php(38): Model->find('list', Array, Array)
+#6 [internal function]: Mv007SmsEnviadoReportesController->get_subgrupo('undefined')
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv007SmsEnviadoReportesController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:22:14 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  la sintaxis de entrada no es válida para integer: «undefined»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C003tGr...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C003tGr...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C003tGr...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C003tGrupo), Array)
+#5 /var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php(38): Model->find('list', Array, Array)
+#6 [internal function]: Mv007SmsEnviadoReportesController->get_subgrupo('undefined')
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv007SmsEnviadoReportesController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:22:39 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  la sintaxis de entrada no es válida para integer: «undefined»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C003tGr...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C003tGr...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C003tGr...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C003tGrupo), Array)
+#5 /var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php(38): Model->find('list', Array, Array)
+#6 [internal function]: Mv007SmsEnviadoReportesController->get_subgrupo('undefined')
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv007SmsEnviadoReportesController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:22:40 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  la sintaxis de entrada no es válida para integer: «undefined»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C003tGr...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C003tGr...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C003tGr...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C003tGrupo), Array)
+#5 /var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php(38): Model->find('list', Array, Array)
+#6 [internal function]: Mv007SmsEnviadoReportesController->get_subgrupo('undefined')
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv007SmsEnviadoReportesController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:22:47 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  la sintaxis de entrada no es válida para integer: «undefined»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "C003tGr...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "C003tGr...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "C003tGr...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C003tGrupo), Array)
+#5 /var/www/sms/app/Controller/Mv007SmsEnviadoReportesController.php(38): Model->find('list', Array, Array)
+#6 [internal function]: Mv007SmsEnviadoReportesController->get_subgrupo('undefined')
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv007SmsEnviadoReportesController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv007SmsEnviadoReportesController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#12 {main}
+2012-09-26 11:23:33 Error: [MissingActionException] Action Mv011DestinatarioGruposController::get_subgrupo() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-26 11:23:35 Error: [MissingActionException] Action Mv011DestinatarioGruposController::get_subgrupo() could not be found.
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#4 {main}
+2012-09-26 11:24:44 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «exportCSVForSmsEnviados»
+LINE 1: exportCSVForSmsEnviados
+        ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('exportCSVForSms...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('exportCSVForSms...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(589): DboSource->fetchAll('exportCSVForSms...', Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(775): DboSource->query('exportCSVForSms...', Array, Object(Mv011DestinatarioGrupo))
+#5 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(74): Model->__call('exportCSVForSms...', Array)
+#6 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(74): Mv011DestinatarioGrupo->exportCSVForSmsEnviados()
+#7 [internal function]: Mv011DestinatarioGruposController->export()
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv011DestinatarioGruposController), Array)
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-26 11:34:51 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «exportCSVForGrupos»
+LINE 1: exportCSVForGrupos
+        ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('exportCSVForGru...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('exportCSVForGru...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(589): DboSource->fetchAll('exportCSVForGru...', Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(775): DboSource->query('exportCSVForGru...', Array, Object(Mv011DestinatarioGrupo))
+#5 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(62): Model->__call('exportCSVForGru...', Array)
+#6 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(62): Mv011DestinatarioGrupo->exportCSVForGrupos()
+#7 [internal function]: Mv011DestinatarioGruposController->export()
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv011DestinatarioGruposController), Array)
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-26 11:35:46 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «exportCSVForGrupos»
+LINE 1: exportCSVForGrupos
+        ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('exportCSVForGru...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('exportCSVForGru...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(589): DboSource->fetchAll('exportCSVForGru...', Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(775): DboSource->query('exportCSVForGru...', Array, Object(Mv011DestinatarioGrupo))
+#5 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(62): Model->__call('exportCSVForGru...', Array)
+#6 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(62): Mv011DestinatarioGrupo->exportCSVForGrupos()
+#7 [internal function]: Mv011DestinatarioGruposController->export()
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv011DestinatarioGruposController), Array)
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-26 11:37:16 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  error de sintaxis en o cerca de «exportCSVForGrupos»
+LINE 1: exportCSVForGrupos
+        ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('exportCSVForGru...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('exportCSVForGru...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(589): DboSource->fetchAll('exportCSVForGru...', Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(775): DboSource->query('exportCSVForGru...', Array, Object(Mv011DestinatarioGrupo))
+#5 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(64): Model->__call('exportCSVForGru...', Array)
+#6 /var/www/sms/app/Controller/Mv011DestinatarioGruposController.php(64): Mv011DestinatarioGrupo->exportCSVForGrupos()
+#7 [internal function]: Mv011DestinatarioGruposController->export()
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv011DestinatarioGruposController), Array)
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv011DestinatarioGruposController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#13 {main}
+2012-09-26 14:10:31 Error: [PDOException] SQLSTATE[42703]: Undefined column: 7 ERROR:  no existe la columna Mv008SmsRecibidoReporte.codigo_grupo_id
+LINE 1: ...RecibidoReporte"."filtro" <= '''2012-09-26''' AND "Mv008SmsR...
+                                                             ^
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT "Mv008Sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT "Mv008Sm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT "Mv008Sm...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2698): DboSource->read(Object(Mv008SmsRecibidoReporte), Array)
+#5 /var/www/sms/app/Model/Behavior/CsvExportBehavior.php(338): Model->find('all', Array)
+#6 [internal function]: CsvExportBehavior->exportCSVForSmsRecibido(Object(Mv008SmsRecibidoReporte))
+#7 /var/www/sms/lib/Cake/Model/BehaviorCollection.php(239): call_user_func_array(Array, Array)
+#8 /var/www/sms/lib/Cake/Model/Model.php(771): BehaviorCollection->dispatchMethod(Object(Mv008SmsRecibidoReporte), 'exportCSVForSms...', Array)
+#9 /var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php(81): Model->__call('exportCSVForSms...', Array)
+#10 /var/www/sms/app/Controller/Mv008SmsRecibidoReportesController.php(81): Mv008SmsRecibidoReporte->exportCSVForSmsRecibido()
+#11 [internal function]: Mv008SmsRecibidoReportesController->export()
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mv008SmsRecibidoReportesController), Array)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(Mv008SmsRecibidoReportesController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#17 {main}
+2012-10-01 09:39:12 Error: [PDOException] SQLSTATE[3F000]: Invalid schema name: 7 ERROR:  no existe el esquema «a»
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO gsm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('INSERT INTO gsm...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(516): DboSource->fetchAll('INSERT INTO gsm...')
+#4 [internal function]: DboSource->query('INSERT INTO gsm...')
+#5 /var/www/sms/lib/Cake/Model/Model.php(3055): call_user_func_array(Array, Array)
+#6 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(207): Model->query('INSERT INTO gsm...')
+#7 /var/www/sms/app/Controller/C007tMensajesEnviadosPersonalizadoController.php(70): C007tMensajesEnviadosPersonalizadoController->populateC012tEnvio('44', 'MENSAJE DE PRUE...', '1', '236')
+#8 [internal function]: C007tMensajesEnviadosPersonalizadoController->add()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(C007tMensajesEnviadosPersonalizadoController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(C007tMensajesEnviadosPersonalizadoController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/sms/index.php(40): require('/var/www/sms/ap...')
+#14 {main}
+2012-11-26 09:31:30 Error: [MissingControllerException] Controller class UbtsiteController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 09:38:37 Error: [MissingControllerException] Controller class I002tRolsController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 09:39:44 Error: [MissingControllerException] Controller class C010tComputadorsController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 09:40:58 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:44:25 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:54:28 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:56:10 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:56:23 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:56:31 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:57:11 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:57:22 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:57:42 Error: [MissingTableException] Table i002t_rols for model I002tRol was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('i002t_rols')
+#1 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(1044): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(2698): DboSource->read(Object(C005tUsuario), Array)
+#3 /var/www/ubtsite/app/Controller/AppController.php(81): Model->find('first', Array)
+#4 /var/www/ubtsite/app/Controller/AppController.php(73): AppController->getUserRelateData(1)
+#5 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#6 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Controller/Controller.php(670): CakeEventManager->dispatch(Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#12 {main}
+2012-11-26 09:58:17 Error: [MissingActionException] Action UsuariosController::login1() could not be found.
+#0 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#4 {main}
+2012-11-26 09:59:12 Error: [MissingActionException] Action UsuariosController::login1() could not be found.
+#0 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#4 {main}
+2012-11-26 09:59:44 Error: [MissingActionException] Action UsuariosController::login1() could not be found.
+#0 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#4 {main}
+2012-11-26 10:05:35 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(1380): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(352): Model->hasField('co_usuario')
+#4 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(124): PaginatorComponent->validateSort(Object(C005tUsuario), Array, Array)
+#5 /var/www/ubtsite/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#6 /var/www/ubtsite/app/Controller/UsuariosController.php(41): Controller->paginate()
+#7 [internal function]: UsuariosController->index()
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:06:36 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(1380): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(352): Model->hasField('co_usuario')
+#4 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(124): PaginatorComponent->validateSort(Object(C005tUsuario), Array, Array)
+#5 /var/www/ubtsite/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#6 /var/www/ubtsite/app/Controller/UsuariosController.php(41): Controller->paginate()
+#7 [internal function]: UsuariosController->index()
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:10:23 Error: [MissingControllerException] Controller class I002tRolsController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 10:10:29 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(1380): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(352): Model->hasField('co_usuario')
+#4 /var/www/ubtsite/lib/Cake/Controller/Component/PaginatorComponent.php(124): PaginatorComponent->validateSort(Object(C005tUsuario), Array, Array)
+#5 /var/www/ubtsite/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#6 /var/www/ubtsite/app/Controller/UsuariosController.php(41): Controller->paginate()
+#7 [internal function]: UsuariosController->index()
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsuariosController), Array)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:11:32 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:12:14 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:12:51 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:12:57 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:13:01 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:13:14 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(UsuariosController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(UsuariosController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:15:10 Error: [MissingConnectionException] Database connection "SQLSTATE[08006] [7] FATAL:  la autentificación password falló para el usuario «administrador»
+FATAL:  la autentificación password falló para el usuario «administrador»" is missing, or could not be created.
+#0 /var/www/ubtsite/lib/Cake/Model/Datasource/DboSource.php(245): Postgres->connect()
+#1 /var/www/ubtsite/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /var/www/ubtsite/lib/Cake/Model/Model.php(3417): ConnectionManager::getDataSource('default')
+#3 /var/www/ubtsite/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#4 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#5 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#6 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#7 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#8 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#9 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#10 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#11 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#12 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#13 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#14 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#17 {main}
+2012-11-26 10:15:29 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:15:34 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:15:37 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:15:38 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:23:55 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:29:45 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:30:22 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:30:23 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:30:47 Error: [MissingTableException] Table c005t_usuario for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuario')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:34:46 Error: [MissingTableException] Table c005t_usuarios for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuarios')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:45:10 Error: [MissingTableException] Table c005t_usuarios for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuarios')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 10:46:15 Error: [MissingTableException] Table c005t_usuarios for model C005tUsuario was not found in datasource default.
+#0 /var/www/ubtsite/lib/Cake/Model/Model.php(3443): Model->setSource('c005t_usuarios')
+#1 /var/www/ubtsite/lib/Cake/Model/Model.php(1292): Model->getDataSource()
+#2 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(196): Model->schema()
+#3 /var/www/ubtsite/lib/Cake/View/Helper/FormHelper.php(450): FormHelper->_introspectModel('C005tUsuario', 'fields')
+#4 /var/www/ubtsite/app/View/Usuarios/login.ctp(9): FormHelper->create('C005tUsuario', Array)
+#5 /var/www/ubtsite/lib/Cake/View/View.php(910): include('/var/www/ubtsit...')
+#6 /var/www/ubtsite/lib/Cake/View/View.php(874): View->_evaluate('/var/www/ubtsit...', Array)
+#7 /var/www/ubtsite/lib/Cake/View/View.php(465): View->_render('/var/www/ubtsit...')
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}
+2012-11-26 13:35:54 Error: [MissingControllerException] Controller class RolesController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 13:36:59 Error: [MissingControllerException] Controller class RolesController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 13:37:28 Error: [MissingControllerException] Controller class ROLSController could not be found.
+#0 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#2 {main}
+2012-11-26 13:37:33 Error: [CakeException] $controller does not implement an isAuthorized() method.
+#0 /var/www/ubtsite/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(71): ControllerAuthorize->controller(Object(RolsController))
+#1 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(418): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(380): AuthComponent->constructAuthorize()
+#3 /var/www/ubtsite/lib/Cake/Controller/Component/AuthComponent.php(330): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(RolsController))
+#5 /var/www/ubtsite/lib/Cake/Utility/ObjectCollection.php(130): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /var/www/ubtsite/lib/Cake/Event/CakeEventManager.php(246): call_user_func(Array, Object(CakeEvent))
+#8 /var/www/ubtsite/lib/Cake/Controller/Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(100): Controller->startupProcess()
+#10 /var/www/ubtsite/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(RolsController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/ubtsite/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/ubtsite/index.php(40): require('/var/www/ubtsit...')
+#13 {main}

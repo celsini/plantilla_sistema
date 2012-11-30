@@ -1,0 +1,90 @@
+.Contenedor-Texto-Menu:hover
+{  
+    background-image:url(images/flecha.gif);
+    color:#CC0000;
+}
+.Contenedor-Texto-Menu
+{
+  color:#333333;
+}
+.Contenedor-Texto-Menu
+{   
+    width:159px; 
+    margin:5px 0px 0px 8px;
+}
+
+.Contenedor-Texto-Menu
+{
+    border-style:none;
+    padding:0px;
+	margin: 0px;
+	
+}
+.Contenedor-Texto-Menu
+{
+    float:left;
+    background-repeat:no-repeat; 
+}
+.Contenedor-Texto-Menu
+{
+    font-size : 8pt; 
+    font-family: Arial, sans-serif;
+    text-decoration:none;
+    border-style:none; 
+    text-align:left;    
+    display:inline;
+}
+.Contenedor-Texto-Menu1 {  color:#333333;
+}
+.Contenedor-Texto-Menu1 {    width:159px; 
+    margin:5px 0px 0px 8px;
+}
+.Contenedor-Texto-Menu1 {    border-style:none;
+    padding:0px;
+	margin: 0px;
+}
+.Contenedor-Texto-Menu1 {    float:left;
+    background-repeat:no-repeat; 
+}
+.Contenedor-Texto-Menu1 {    font-size : 8pt; 
+    font-family: Arial, sans-serif;
+    text-decoration:none;
+    border-style:none; 
+    text-align:left;    
+    display:inline;
+}
+.Titulo-Aplicacion {    font-family: Arial, sans-serif;
+   	font-weight:bold;
+   	color:#CC0000;
+   	font-size:12px;
+}
+table.adminlist {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ddd;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+}
+table.adminlist th {
+	margin: 0px;
+	padding: 6px 4px 2px 4px;
+	height: 25px;
+	background: url(../images/background.jpg);
+	background-repeat: repeat;
+	font-size: 13px;
+	color: #000;
+}
+table.adminlist td {
+	border-bottom: 1px solid #e5e5e5;
+	padding: 4px;
+}
+.style19 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+}
+.style15 {font-size: 12px; font-family: Arial;}
+.innerb {OVERFLOW: auto; HEIGHT: 200px}

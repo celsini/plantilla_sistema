@@ -1,0 +1,66 @@
+/* DEFINCION DE FUENTES DEL SISTEMA PARA FORMATO UNITARIO */
+/*             FUENTES DE GRAN TAMAÑO                     */
+.font_SuperTitle{
+font-family: arial, Baskerville, "Heisi Mincho W3", Symbol, serif;
+font-style: normal;
+font-weight: 700;
+font-size:14px;
+text-transform: uppercase
+}
+
+
+/*             FUENTES DE TAMAÑO TITULO                     */
+.font_Title{
+font-family: arial, Baskerville, "Heisi Mincho W3", Symbol, serif;
+font-style: normal;
+font-weight: 700;
+font-size:12px;
+text-transform: uppercase;
+}
+
+
+/*             FUENTES DE TAMAÑO CONTENIDO                     */
+.font_Content{
+font-family: arial, Baskerville, "Heisi Mincho W3", Symbol, serif;
+font-style: normal;
+font-weight: 700;
+font-size:10px;
+text-transform: uppercase;
+}
+
+/*  FUENTES DE TAMAÑO CONTENIDO                     */
+.font_Error{
+font-family: arial, Baskerville, "Heisi Mincho W3", Symbol, serif;
+color:red;
+font-style: normal;
+font-weight: 700;
+font-size:12px;
+text-transform: uppercase;
+}
+
+
+
+/* DEFINICION DE CUERPO DEL PROGRAMA */
+
+.security{
+background-color:#5e9c6d;
+}
+
+/* DEFINICION DE CAPA DE CUERPO DE LA PAGINA*/
+
+.security_body{
+position:relative;
+top:0px;
+width:776px;
+}
+
+/*DEFINICIION DE CAPA DE MUESTRA DE CONTENIDO*/
+
+.security_form{
+background-image: url('/images/login.jpg');
+color:#000000;
+width:468px;
+height:469px;
+position:relative;
+top:120px;
+}

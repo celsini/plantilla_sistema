@@ -1,0 +1,221 @@
+.clase{
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ddd;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 	
+	font-size: 11px;
+	color : #333;
+}
+
+.Contenedor-Texto-Menu {
+color:#333;
+display:inline;
+float:left;
+margin:5px 0 0 0px;
+padding:0;
+text-align:left;
+text-decoration:none;
+}
+
+.Contenedor-Texto-Menu:hover {
+background-image:url(../images/flecha.gif);
+background-repeat:no-repeat;
+color:#C00;
+}
+
+.Contenedor-Texto-sub-Menu {
+color:#666;
+float:left;
+margin:3px 0 0 12px;
+padding:0;
+text-align:left;
+text-decoration:none;
+}
+
+.Contenedor-Texto-sub-Menu:hover {
+background-image:url(../images/flechita.gif);
+background-repeat:no-repeat;
+color:#C00;
+}
+
+.Text-menu {
+font-family:Arial, sans-serif;
+font-size:12px;
+margin:0 0 0 12px;
+}
+
+.PuntoHo_Cortico {
+background-image:url(../images/puntoHo.gif);
+background-repeat:repeat-x;
+float:left;
+height:15px;
+margin:10px 0 -10px 15px;
+width:140px;
+}
+
+.Titulo-Aplicacion {    font-family: Arial, sans-serif;
+   	font-weight:bold;
+   	color:#CC0000;
+   	font-size:12px;
+}
+
+
+
+/***-Tablas-***/
+
+.Contenedor-Tabla
+{
+/*float:right;*/
+
+}
+
+TABLE.Tabla-Aplicacion {
+margin:15px 0 0;
+padding:0;
+width:570px;
+border:none;
+}
+
+TABLE.Tabla-Aplicacion TR {
+height:20px;
+margin:0 0 1px;
+padding:0;
+}
+
+TABLE.Tabla-Aplicacion TH {
+background-color:#999;
+color:#FFF;
+font-family:Arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+height:17px;
+margin:0 1px 0 0;
+padding:3px 0 0;
+text-align:center;
+width:180px;
+}
+
+TABLE.Tabla-Aplicacion TD {
+background-color:#E8E8E8;
+color:#333;
+font-family:Arial, sans-serif;
+font-size:12px;
+height:17px;
+margin:0 1px 0 0;
+padding:3px 0 0 10px;
+text-align:left;
+width:170px;
+}
+
+table.adminlist {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ddd;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+}
+table.adminlist th {
+	margin: 0px;
+	padding: 6px 4px 2px 4px;
+	height: 25px;
+	background: url(../images/background.jpg);
+	background-repeat: repeat;
+	font-size: 13px;
+	color: #000;
+}
+table.adminlist td {
+	border-bottom: 1px solid #e5e5e5;
+	padding: 4px;
+}
+.style19 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+}
+.style15 {font-size: 12px; font-family: Arial;}
+/*.innerb {OVERFLOW: auto; HEIGHT: 280px}*/
+
+#Contenedor-Elemento-Formulario-aux {
+height:auto;
+margin:10px 0 0;
+float:left;
+width:567px;
+}
+
+	/*-Boton-*/
+
+.Principio-Boton {
+background-image:url(imagenes-aplicacion/esquina_izquierda_botones.gif);
+background-repeat:no-repeat;
+border-style:none;
+float:left;
+height:20px;
+margin:0 -5px 0 0;
+padding:0;
+width:10px;
+}
+
+.Boton {
+background-image:url(imagenes-aplicacion/fondo_boton.png);
+border:none;
+border-style:none;
+color:#666;
+display:inline;
+float:left;
+font-family:Arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+height:20px;
+margin:0 -7px 0 0;
+text-align:center;
+text-decoration:none;
+width:auto;
+}
+
+.Final-Boton {
+background-image:url(imagenes-aplicacion/esquina_derecha_botones.gif);
+background-repeat:no-repeat;
+border-style:none;
+float:left;
+height:20px;
+margin:0 10px 0 0;
+padding:0;
+width:10px;
+
+}
+
+.input-style-adma {
+border-color:#CCC;
+border-style:double;
+border-width:1px;
+color:#333;
+display:inline;
+font-family:Arial, sans-serif;
+font-size:11px;
+text-align:left;
+
+}
+
+.Sub-Titulo-Aplicacion {
+color:#666;
+display:inline;
+float:left;
+font-family:Arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+margin:0;
+padding:0;
+text-align:left;
+text-decoration:none;
+width:570px;
+}
+
+.excel{
+background-color:#999;
+}

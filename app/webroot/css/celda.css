@@ -1,0 +1,26 @@
+.celda_modified{
+font-size:9px;
+
+}
+
+.jqgrid-rownum
+{
+font-size:9px;
+font-weight:bold;
+}
+.ui-jqgrid-sortable
+{
+ font-size:13px;
+ font-weight:bold;
+}
+
+.ui-pg-table
+{
+font-size:13px;
+font-weight:bold;
+
+}
+
+.ui-pg-input{
+text-align:center;
+}
